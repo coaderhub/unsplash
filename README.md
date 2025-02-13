@@ -17,8 +17,3 @@ This basic Vite project demonstrates how to integrate the Unsplash API to fetch 
 ## Demo
 
 [Check Unsplash API Vite Project](https://unsplashapi22.netlify.app/)
-
-=======
-# Unsplash
- 
->>>>>>> 6df8625de7d242b2bf10929cbc4b65697491fa31
