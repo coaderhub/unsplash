@@ -57,7 +57,7 @@ function App() {
 
   return (
     <div className='container'>
-      <h1 className='title'>Image Search</h1>
+      <h1 className='title'>Image Search by Unsplash API</h1>
       {errorMsg && <p className='error-msg'>{errorMsg}</p>}
       <div className='search-section'>
         <Form onSubmit={handleSearch}>
