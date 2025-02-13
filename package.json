@@ -1,7 +1,6 @@
 {
   "name": "unsplash_API",
   "private": true,
-  "homepage": "https://coaderhub.github.io/unsplash",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
