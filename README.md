@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Basic Vite  Project for Integrate the Unsplash API
 
 This basic Vite project demonstrates how to integrate the Unsplash API to fetch and display high-quality, royalty-free images. Using Vite’s fast build system, the project allows you to search for images based on keywords and dynamically display them, creating a smooth and efficient user experience.
